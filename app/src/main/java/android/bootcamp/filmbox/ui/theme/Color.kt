@@ -21,3 +21,7 @@ val AmberDesactivado = Color(0xFFBBA356)
 val Slate200 = Color(0xFFE2E8F0)
 val Indigo950 = Color(0xFF1A1A2E)
 val Lavender100 = Color(0xFFF4F0FF)
+
+//Colores Alternativos como opción disabled estados
+val Amber200 = Color(0x79FFC107)
+val Indigo650 = Color(0x651A1A2E)
